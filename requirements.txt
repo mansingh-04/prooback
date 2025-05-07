@@ -3,7 +3,7 @@ Pillow
 scikit-learn
 joblib
 numpy
-gunicorn==20.1.0
+gunicorn
 Flask
 flask-cors
 requests
